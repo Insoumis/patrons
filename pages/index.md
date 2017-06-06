@@ -3,6 +3,9 @@ layout: index
 nav: home
 permalink: /
 ---
+
+# Patrons Insoumis
+
 « Qu’est-ce que le "patronat" français ? Est-on sûr qu’existe bien une catégorie sociale qui commence avec des auto-entrepreneurs à 1 000 euros par mois et comporte des salaires comme celui de Carlos Ghosn ? » [se demandait Jean-Luc Mélenchon](http://melenchon.fr/2015/10/17/le-medef-un-groupuscule-nullement-representatif/).
 
 En effet, ce terme « patronat » rassemble des patron⋅ne⋅s et des entreprises qui n'ont pas grand chose en commun. [En 2014](http://www.lemonde.fr/economie/article/2016/11/08/tout-ce-que-vous-avez-toujours-voulu-savoir-sur-les-entreprises-francaises-en-10-chiffres_5027592_3234.html), sur 4,4 millions d'entreprises en France, seules 274 employaient plus de 5000 salarié⋅e⋅s. [En 2012](http://www.clesdusocial.com/les-salaries-dans-les-entreprises-en-2012-selon-leur-taille), moins de 1% des entreprises employaient plus de 50 salarié⋅e⋅s. [En 2011](http://lexpansion.lexpress.fr/entreprises/les-petits-patrons-francais-gagnent-65-fois-moins-que-les-patrons-du-cac-40_1436674.html), le salaire annuel moyen brut d'un⋅e dirigeant⋅e d'une PME de moins de 20 salarié⋅e⋅s était d'environ 50 000 euros. Un⋅e patron⋅ne d'une PME de moins de 20 salarié⋅e⋅s dans le secteur financier touchait environ 3 fois plus qu'un⋅e autre travaillant dans le BTP, qui gagnait en moyenne à peine plus de 2 Smic. Pendant qu'un⋅e dirigeant⋅e d'une entreprise du CAC 40 gagnait en moyenne 4,2 millions. Le patron de Sanofi, Olivier Brandicourt, touchait même [presque 17 millions en 2015](http://www.latribune.fr/opinions/blogs/le-blog-du-contrarian/la-verite-sur-les-remunerations-des-patrons-du-cac-40-en-2015-167-6-millions-euros-565651.html), alors qu'[en 2013](https://www.insee.fr/fr/statistiques/1906507?sommaire=1906539), plus de 600 000 patron⋅e⋅s d'entreprises sans salarié⋅e⋅s gagnaient moins d’un Smic.
