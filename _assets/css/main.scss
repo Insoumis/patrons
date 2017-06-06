@@ -1,8 +1,6 @@
 @import 'normalize';
 @import 'skeleton';
-
-$blue: #23b9d0;
-$red:  #e23d22;
+@import 'colors';
 
 [v-cloak] {
   display: none;
