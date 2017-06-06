@@ -1,0 +1,140 @@
+---
+layout: default
+nav: relaunch
+permalink: /relancer-l-activite/
+title: Relancer l'activité
+---
+<div class="container">
+  <div class="row">
+    <h1>Qu'est ce que le plan de relance, pourquoi va-t-il relancer l'économie, et comment va-t-il remplir les carnets de commande
+      des entreprises ?</h1>
+  </div>
+</div>
+
+    <div id="app">
+      <div class="container">
+        <div class="row">
+          <p class="introductory-text">Nous prévoyons de mettre en place une relance économique basée sur la politique de la demande. Cela se traduira par :</p>
+
+          <ul class="sub-categories" ref="categories" v-cloak>
+            <li
+              v-for="category in categories"
+              v-bind:class="{ active: show === category }"
+              v-on:click="showCategory(category)"
+              v-text="categoryNames[category]"
+            ></li>
+          </ul>
+        </div>
+      </div>
+
+      <div v-if="show === categories[0]" v-cloak class="container">
+        <h2>Favoriser la dépense privée</h2>
+
+        <p>Voici une courte vidéo expliquant rapidement comment les PME profiteront du plan de relance de l'économie :</p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/KyD8JHPK0v8" frameborder="0" allowfullscreen></iframe>
+
+        <p>Favoriser la dépense privée passe par l’augmentation des revenus et la réduction des impôts, donc :</p>
+
+        <ul>
+          <li class="indent"><a href="https://laec.fr/s30m1">Augmenter du SMIC de 15%</a> et <a href="https://laec.fr/s30m2">revaloriser les salaires des fonctionnaires</a>.</li>
+          <li class="indent">Revaloriser les minima sociaux au dessus du seuil de pauvreté, avec une <a href="https://avenirencommun.fr/le-livret-pauvrete/">garantie dignité de 1 000 € par mois pour
+            une personne seule</a>.</li>
+          <li class="indent">Rendre l'impôt sur les revenus plus progressif en <a href="https://laec.fr/s36m1">soulageant les classes moyennes</a>.</li>
+        </ul>
+
+        <p>Augmenter les revenus des travailleurs, c’est leur permettre d’augmenter leur pouvoir d’achat, donc de consommer
+          davantage et de meilleure qualité. Suite à l’augmentation de cette demande, les entreprises devront produire plus
+          et donc embaucher. Des personnes au chômage retrouveront un travail et verront leur revenu augmenter, ce qui leur
+          permettra de consommer davantage et ainsi de suite. C’est un cercle vertueux qui se met en place.</p>
+
+        <p>Bien que l’augmentation du SMIC pourrait facilement être absorbée par les grandes entreprises, cette hausse pourrait
+          être perçue comme brutale pour les petites et moyennes entreprises. Comment y faire face ?</p>
+
+        <p>D'abord, par la limitation des salaires suivant un ratio de 1 à 20, qui permettra de limiter la progression de la
+          masse salariale.</p>
+
+        <p>Ensuite, les PME bénéficieront aussi d'aides à court-terme avec le nouveau pôle public bancaire :</p>
+        <ul>
+          <li><a href="https://laec.fr/s21m3">Prêt à taux zéro</a> par le <a href="https://avenirencommun.fr/le-livret-banques/">pôle public bancaire</a> qui sera créé.</li>
+          <li>Raccourcissement des <a href="https://laec.fr/s21m5">délais de paiement aux sous-traitants</a>.</li>
+        </ul>
+
+        <p>A court terme, un <a href="https://laec.fr/s21m6">fond de solidarité inter-entreprises</a> sera mis en place, afin de <a href="https://avenirencommun.fr/livret-produire-france/">mutualiser la contribution sociale entre toutes les entreprises et ainsi soulager les PME</a>, suivant un barème progressif, pour que les TPE ne payent quasiment rien et que les grands groupes cotisent pour l’essentiel.</p>
+
+        <img class="raised" src="{{ "/assets/fonds-de-solidarite-interentreprises.png" | relative_url }}" alt="Fonds de solidarité interentreprise">
+
+        <p>Enfin, <a href="https://laec.fr/s36m3">l'impôt sur les sociétés sera refondé pour établir l'égalité devant l'impôt entre PME et grands groupes, en instaurant un barème progressif qui favorisera l'investissement plutôt que la distribution de dividendes</a>. À court terme, <a href="https://avenirencommun.fr/livret-produire-france/">le taux de l’impôt sur les sociétés sera porté à 25 %</a>.</p>
+
+        <img class="raised" src="{{ "/assets/baisser-l-impot-sur-les-entreprises.png" | relative_url }}" alt="Baisser l'impôt sur les entreprises">
+
+
+      </div>
+      <div v-else-if="show === categories[1]" v-cloak class="container">
+        <h2>Augmenter l’investissement public</h2>
+
+        <p>Nous prévoyons d’<a href="https://laec.fr/s18">injecter 100 milliards d'euros supplémentaires dans l'économie pour des investissements écologiquement et socialement utiles</a>.</p>
+        <p>
+          <span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit cum illo, praesentium asperiores repellendus expedita quis, nemo doloremque odio vitae temporibus consequuntur ipsum ipsa reiciendis, nulla laborum suscipit aspernatur voluptatibus?</span>
+          <span>Minus in perspiciatis et eligendi eaque, quibusdam illo distinctio labore dicta commodi, architecto nam, voluptatem rem esse vitae similique rerum consequuntur assumenda eum iure impedit deleniti! Dolorem porro voluptatum dignissimos!</span>
+          <span>Explicabo, fugiat, similique. Eum, iste, sapiente hic soluta ducimus minus! Assumenda eaque autem illum laudantium error voluptate nostrum numquam repellat dolore ex magni, accusantium cum quis similique amet quibusdam! Adipisci.</span>
+          <span>Fugit fugiat ducimus aliquam deleniti rem accusantium quibusdam esse quaerat aspernatur, impedit incidunt quisquam reprehenderit iure sed dolore qui temporibus excepturi quo. Maiores, neque unde nihil eos quam modi laborum.</span>
+          <span>Debitis, repellendus maxime quibusdam quis dignissimos non, odit amet distinctio in adipisci, officia consequuntur tempore porro earum unde eos commodi placeat magni mollitia! Odio, voluptate autem expedita, adipisci suscipit obcaecati.</span>
+          <span>Accusamus asperiores totam nesciunt impedit repudiandae quos esse deserunt consectetur eligendi voluptates perspiciatis voluptas, velit, odio quasi. Incidunt quo non excepturi tempore nesciunt cupiditate a commodi est alias, explicabo, exercitationem.</span>
+          <span>Aspernatur aliquam hic labore, harum soluta illo vel ab, fugit dolor alias esse et dolore ut consectetur porro quasi earum? Nam iste quod temporibus, atque voluptatem enim molestias labore officia?</span>
+          <span>Vel magnam veritatis quasi dolor non fugit corporis expedita recusandae, officiis minima saepe mollitia libero, quas cum velit culpa autem, facere odit unde. Corrupti quasi corporis nesciunt quaerat, voluptas voluptatem!</span>
+          <span>Consequuntur laudantium, natus minima harum deleniti, ea facilis autem, rem sint labore totam modi? Dolorum numquam obcaecati, molestias ducimus aliquid asperiores cumque possimus voluptatum? Repellendus in tempora ipsa eligendi. Assumenda!</span>
+          <span>At sequi autem, asperiores illo ea non vel consequuntur sed fugiat est odio quidem corporis earum eligendi maxime. Asperiores earum quod sequi ipsum voluptates, provident autem repellendus omnis quo enim.</span>
+        </p>
+      </div>
+
+      <div v-else-if="show === categories[2]" v-cloak class="container">
+        <h2>Efficacité du plan d'investissement</h2>
+
+        <p>Marzipan jelly-o candy fruitcake. Donut wafer tiramisu. Cake halvah lollipop marzipan. Sesame snaps toffee donut
+          gummi bears powder icing sesame snaps apple pie jelly. Oat cake ice cream powder gingerbread. Carrot cake jelly-o
+          oat cake chocolate jujubes marshmallow biscuit. Jelly-o candy canes lollipop brownie pudding cotton candy danish
+          cake croissant. Caramels candy canes gingerbread. Bonbon tiramisu cupcake ice cream. Marzipan jelly-o candy wafer
+          cookie dessert sesame snaps lollipop. Bonbon candy canes sweet. Danish lemon drops gingerbread sweet roll. Bear
+          claw tootsie roll ice cream pudding apple pie tiramisu dessert chupa chups brownie. Gummies pie cheesecake toffee.
+          Liquorice cookie bear claw chocolate cake brownie jelly beans topping danish. Gummi bears chocolate cake fruitcake
+          carrot cake halvah. Sweet candy canes jujubes jelly beans ice cream. Sugar plum sweet jelly-o chocolate chocolate
+          chocolate bar biscuit bear claw. Danish sweet roll muffin chocolate halvah apple pie oat cake gummi bears gingerbread.
+          Pudding gummies cake ice cream sweet roll. Chocolate bar icing croissant sugar plum tart gummies. Soufflé cookie
+          candy canes tiramisu chocolate cake carrot cake croissant liquorice. Dragée liquorice biscuit cupcake gummi bears
+          macaroon. Tart marzipan icing ice cream soufflé caramels cake. Apple pie caramels tootsie roll jelly. Macaroon
+          caramels pie dessert jelly pastry cupcake. Gingerbread biscuit bear claw chupa chups fruitcake lollipop cheesecake
+          halvah. Cupcake tootsie roll liquorice biscuit carrot cake chocolate bar tiramisu tootsie roll soufflé. Lemon drops
+          toffee fruitcake carrot cake. Jujubes bear claw icing gummi bears cotton candy cake. Dessert bear claw brownie.
+          Pudding candy canes gingerbread halvah toffee chocolate soufflé cotton candy chocolate bar. Apple pie candy canes
+          dessert cupcake brownie cheesecake. Liquorice jujubes jelly beans gummies sugar plum tart liquorice icing jelly.
+          Dragée soufflé powder sweet roll tiramisu pudding chupa chups. Dragée cake tart pudding sesame snaps apple pie
+          dragée. Marshmallow sweet roll chocolate bar apple pie sweet toffee liquorice powder. Jujubes fruitcake croissant.
+          Topping tart lemon drops sweet caramels chocolate cake croissant. Lollipop marzipan muffin. Chocolate bar sesame
+          snaps icing tootsie roll tootsie roll lemon drops tiramisu. Pastry macaroon sesame snaps pudding cotton candy tootsie
+          roll. Cookie cupcake cake powder apple pie. Topping candy gummies tart donut candy canes wafer dessert. Cotton
+          candy danish apple pie toffee. Wafer fruitcake chocolate bar pudding chocolate candy canes icing pudding jelly.
+          Oat cake tart tiramisu apple pie cupcake cheesecake. Gingerbread lemon drops pudding bonbon. Tiramisu cupcake powder.
+          Topping jelly beans candy. Tootsie roll croissant chocolate bar brownie macaroon sweet roll macaroon gingerbread
+          danish. Macaroon jelly tart bonbon. Brownie topping gingerbread tart toffee jelly beans pudding liquorice cake.
+          Lemon drops icing chocolate bar cupcake. Tootsie roll lollipop powder liquorice sugar plum. Brownie pie gummi bears
+          cake wafer lollipop macaroon cookie. Carrot cake jelly powder. Biscuit ice cream brownie. Sweet roll sweet candy
+          canes candy cotton candy jelly-o bear claw. Lollipop tootsie roll jujubes chocolate cake pudding oat cake carrot
+          cake. Caramels gummi bears cotton candy fruitcake candy cheesecake sweet bonbon pudding. Cheesecake croissant wafer
+          marzipan sweet.
+        </p>
+      </div>
+
+      <div class="container">
+        <ul class="sub-categories" v-cloak>
+          <li
+            v-for="category in categories"
+            v-bind:class="{ active: show === category }"
+            v-on:click="showCategory(category, true)"
+            v-text="categoryNames[category]"
+          ></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>

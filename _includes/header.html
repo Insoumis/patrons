@@ -1,0 +1,31 @@
+<header>
+  <div class="container large">
+    <div class="row">
+      <div class="one-third column">
+        <img class="logo" src="/assets/logo.svg" alt="Patrons Insoumis" />
+      </div>
+    </div>
+  </div>
+  <nav class="u-full-width">
+    <ol class="container">
+      <li {% if page.nav == "home" %}class="active"{% endif %}>
+        <a href="{{ "/" | relative_url }}">Accueil</a>
+      </li>
+      <li {% if page.nav == "relaunch" %}class="active"{% endif %}>
+        <a href="/relancer-l-activite">Relancer l'activité</a>
+      </li>
+    </ol>
+  </nav>
+  {% unless page.nav == "home" %}
+    <ol class="container breadcrumb">
+      <li>
+        <a class="unstyled-link" href="/">
+          {{ site.title }}
+        </a>
+      </li>
+      <li>
+        {{ page.title }}
+      <li>
+    </ol>
+  {% endunless %}
+</header>
