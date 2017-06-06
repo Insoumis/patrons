@@ -59,7 +59,11 @@ h1 {
 }
 
 .logo {
-  max-height: 85px;
+  height: 85px;
+
+  img {
+    max-height: 100%;
+  }
 }
 
 nav {
