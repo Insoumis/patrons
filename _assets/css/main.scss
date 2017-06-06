@@ -39,6 +39,21 @@ h1 {
   margin: 0.5em 0 1em;
 }
 
+.intro {
+  max-width: 80%;
+  margin: 1.6rem auto;
+
+  .content {
+    display: flex;
+    flex-flow: column nowrap;
+    align-items: center;
+  }
+
+  p {
+    font-size: 1.1rem;
+  }
+}
+
 .logo {
   max-height: 85px;
 }
