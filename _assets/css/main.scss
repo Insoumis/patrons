@@ -108,7 +108,11 @@ header {
   justify-content: flex-start;
   align-items: flex-start;
   transform: translateX(0%);
-  transition: transform 0.3s ease-out;
+  transition: transform 0.3s ease;
+}
+
+.slide-out {
+  transform: translateX(0%);
 }
 
 /* NAV */
@@ -355,7 +359,7 @@ img.raised {
     height: 100%;
     background-color: $red;
     bottom: 0;
-    transform: translateX(-100%);
+    transform: translateX(-101%);
   }
   .article {
     margin-top: 70px;

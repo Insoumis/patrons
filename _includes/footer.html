@@ -25,8 +25,12 @@
     </li>
   </ol>
 </nav>
+<script>
+document.querySelector('.menu-icon').addEventListener('click', function() {
+  var header = document.querySelector('header');
+  header.classList.toggle('slide-out');
+}, false);
+</script>
 {% if jekyll.environment == 'production' %}
-  {% js prod %}
-{% else %}
-  {% js main %}
+  {% include google-analytics.html %}
 {% endif %}
