@@ -107,9 +107,8 @@ header {
   flex-direction: column;
   justify-content: flex-start;
   align-items: flex-start;
-
+  transform: translateX(0%);
   transition: transform 0.3s ease-out;
-
 }
 
 /* NAV */
