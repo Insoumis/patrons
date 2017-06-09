@@ -36,4 +36,3 @@ Nous remercions chaleureusement la rédaction de [Fakir](https://www.fakirpresse
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TDsX0UlzQTA?ecver=1" frameborder="0" allowfullscreen></iframe>
-« gestes commerciaux »
