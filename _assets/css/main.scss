@@ -8,12 +8,21 @@
 
 html, body {
   height: 100%;
+  color: $black;
+  background: #fbfbfb;
 }
-body {
+
+main {
+  position: relative;
   display: flex;
-  flex-flow: column;
+  flex-direction: row;
   justify-content: space-between;
 }
+
+blockquote {
+  font-style: italic;
+}
+
 .unstyled-link {
   cursor: pointer;
   text-decoration: none;
@@ -35,56 +44,122 @@ h1 {
   font-size: 3.1rem;
   font-weight: 900;
   text-transform: uppercase;
-  color: #23b9d0;
+  color: $blue;
+  margin: 1em 0 1em;
+}
+
+h2 {
+  font-size: 2rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: $red;
   margin: 0.5em 0 1em;
 }
 
-.intro {
-  max-width: 80%;
+p, ul {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+.intro, .article {
+  margin-bottom: 3em;
+}
+
+.intro h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.content {
   margin: 1.6rem auto;
 
-  .content {
-    display: flex;
-    flex-flow: column nowrap;
-    align-items: center;
+  @media (min-width: 960px) {
+    max-width: 80%;
   }
+}
 
-  h1 {
-    font-size: 4rem;
-  }
-
-  p {
-    font-size: 1.6rem;
-  }
+img {
+  max-width: 100%;
 }
 
 .logo {
-  height: 85px;
+
+  width: 100%;
+
+  a {
+    max-height: 100%;
+    display: block;
+    margin: auto;
+    padding: 0;
+  }
 
   img {
-    max-height: 100%;
+    height: 85px;
+    display: block;
+    margin: auto;
   }
 }
 
+header {
+  z-index: 5;
+  max-width: 330px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+
+  transition: transform 0.3s ease-out;
+
+}
+
+/* NAV */
+
 nav {
   background: $red;
-  margin-bottom: 1rem;
   font-family: 'Montserrat', sans-serif;
   font-weight: 600;
+  flex-grow: 1;
+  padding-top: 1em;
 }
 nav ol {
   display: flex;
   flex-flow: row wrap;
+
+  @media (max-width: 959px) {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
 nav li {
+  flex-grow: 1;
   list-style-type: none;
   margin: 0;
-  text-align: center;
+  text-align: start;
 }
-nav li a {
-  display: inline-block;
-  padding: 12px;
+
+.sub {
+  font-weight: 500;
+  margin-top: 0;
+  margin-left: 0;
 }
+
+.sub a {
+  display: block;
+  line-height: 28px;
+  font-size: 14px;
+  padding-left: 30px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-right: 24px;
+}
+
+.main-cat {
+  font-size: 18px;
+  display: block;
+  padding-left: 12px;
+  padding-bottom: 12px;
+}
+
 nav li a, nav li a:hover {
   color: white;
   text-decoration: none;
@@ -92,7 +167,7 @@ nav li a, nav li a:hover {
 nav li:hover {
   cursor: pointer;
 }
-nav li:hover, nav li.active {
+.sub li:hover, .sub li.active {
   background: darken($red, 7%);
 }
 
@@ -100,14 +175,16 @@ nav li:hover, nav li.active {
   background-color: $blue;
   padding: 2rem 0;
   font-weight: 400;
-  margin-top: 1rem;
+  margin-top: 0;
   margin-bottom: 0;
-}
-.footer li:hover {
-  background-color: $blue;
-}
-.footer ol {
-  justify-content: center;
+
+  li:hover {
+    background-color: $blue;
+  }
+
+  ol {
+    justify-content: center;
+  }
 }
 
 .breadcrumb {
@@ -191,15 +268,6 @@ nav li:hover, nav li.active {
   background-color: #23b9d0;
 }
 
-@media screen and (max-width: 750px) {
-  .sub-categories {
-    flex-wrap: wrap;
-  }
-  .sub-categories li {
-    width: 100%;
-  }
-}
-
 .introductory-text {
   font-family: 'Montserrat', sans-serif;
   font-size: 2rem;
@@ -224,4 +292,68 @@ img.raised {
 }
 .charts img {
   max-height: 300px;
+}
+
+.navbar {
+  display: none;
+  flex-direction: row;
+  align-items: center;
+  z-index: 6;
+  width: 100%;
+  height: 50px;
+  background: white;
+  border-bottom: 1px solid #e0e0e0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.navbar .filler {
+  flex-grow: 1;
+}
+
+.menu-icon {
+  width: 30px;
+  cursor: pointer;
+}
+
+.navbar-logo {
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  img {
+    max-height: 100%;
+    margin: auto;
+    display: block;
+  }
+}
+
+@media (max-width: 959px) {
+  .navbar {
+    display: flex;
+  }
+  .content {
+    margin-top: 75px
+  }
+  .logo {
+    display: none;
+  }
+  header {
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.15);
+    position: fixed;
+    overflow-y: scroll;
+    top: 50px;
+    height: 100%;
+    background-color: $red;
+    bottom: 0;
+    transform: translateX(-100%);
+  }
+  .article {
+    margin-top: 70px;
+  }
 }

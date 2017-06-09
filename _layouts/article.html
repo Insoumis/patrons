@@ -5,11 +5,7 @@
     <main>
       {% include header.html %}
       <div class="container">
-        {% if page.nav == "home" %}
-          <div class="intro">
-        {% else %}
-          <div class="article">
-        {% endif %}
+        <div class="article">
           <div class="content">
             {{ content }}
           </div>

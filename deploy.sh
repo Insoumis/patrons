@@ -1,3 +1,3 @@
-rm -rf _deploy
-JEKYLL_ENV=production bundle exec jekyll build -d _deploy
-netlify deploy
+sh build.sh
+# netlify deploy
+surge -p _deploy -d https://patrons.insoumis.info
