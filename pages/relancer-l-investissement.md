@@ -4,11 +4,11 @@ permalink: /relancer-l-investissement/
 title: Relancer l'investissement
 ---
 
-# Relancer l'invertissement
+# Relancer l'investissement
 
 La France Insoumise (FI) prévoit d’injecter 102 milliards d'euros supplémentaires sur 5 ans dans l'économie, pour des investissements écologiquement et socialement utiles, soit environ 20 milliards d’euros par an.
 
-## Le plan d'investissements
+## Le plan d'investissement
 
 ![45 milliards dans l'urgence sociale](https://scontent.xx.fbcdn.net/v/t31.0-8/16797622_10155096763938750_5883449515252404990_o.jpg?oh=0c920cf44039fa54d340d7c510aebc5c&oe=5992F55F)
 
