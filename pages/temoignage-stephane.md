@@ -12,6 +12,7 @@ Ce témoignage provient de l'article « CAMARADES PATRONS » de l'excellent [n°
 
 « Tout part d’un courriel, comme souvent chez nous. Mais comme rarement chez nous, c’est un courriel de patron :
 
+```
 De:
 <s.mousseau@emirou.com>
 à:
@@ -23,7 +24,7 @@ Bonjour,
 Nous subissons actuellement les assauts d’un client qui cherche tous les moyens pour renégocier ses factures. C’est un problème de fond. La justice étant trop lente, les fournisseurs sont obligés d’accepter de renégocier leurs factures pour être payés rapidement. Le prochain rendez-vous sera par téléphone demain. Il vous sera possible d’accéder à cette conf’call sans vous manifester et prendre toutes les notes que vous voudrez.
 Cordialement,
 Stéphane Mousseau.
-
+```
 
 > « Ils réclament des ‘‘gestes commerciaux’’, alors qu’on s’était mis d’accord sur le devis. C’est forcé, et ça devient une habitude. »
 
