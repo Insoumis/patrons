@@ -2,6 +2,7 @@
 nav: temoignage-laurent-bernard-president-de-l-uimm-et-directeur-d-opf-a-pont-de-metz
 permalink: /temoignage-laurent-bernard-president-de-l-uimm-et-directeur-d-opf-a-pont-de-metz/
 title: Témoignage de Laurent Bernard, patron d'une entreprise de sous-traitance en mécanique industrielle et président de l’UIMM
+tagline: « Comment c’est possible de produire à ce tarif là ? »
 ---
 
 # Témoignage de Laurent Bernard, patron d'une entreprise de sous-traitance en mécanique industrielle et président de l’UIMM

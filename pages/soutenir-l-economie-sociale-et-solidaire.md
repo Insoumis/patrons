@@ -2,6 +2,7 @@
 nav: soutenir-l-economie-sociale-et-solidaire
 permalink: /soutenir-l-economie-sociale-et-solidaire/
 title: Soutenir l'économie sociale et solidaire
+tagline: Remettre l'économie au service du bien commun
 ---
 
 # Soutenir l'économie sociale et solidaire

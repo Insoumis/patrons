@@ -2,6 +2,7 @@
 nav: temoignage-christophe-villemain-tailleur-de-pierre
 permalink: /temoignage-christophe-villemain-tailleur-de-pierre/
 title: Témoignage de Christophe Villemain, tailleur de Pierre
+tagline: « La sous-traitance avec des majors, c’est la mort. »
 ---
 
 # Témoignage de Christophe Villemain, tailleur de Pierre

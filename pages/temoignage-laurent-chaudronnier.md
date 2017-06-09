@@ -2,6 +2,7 @@
 nav: temoignage-laurent-chaudronnier
 permalink: /temoignage-laurent-chaudronnier/
 title: Témoignage de Laurent, chaudronnier
+tagline: « Les impayés, c’est du hors-jeu. »
 ---
 
 # Témoignage de Laurent, chaudronnier

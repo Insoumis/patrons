@@ -2,6 +2,7 @@
 nav: sous-traitance-aider-les-tpe-pme-face-aux-plus-grandes
 permalink: /sous-traitance-aider-les-tpe-pme-face-aux-plus-grandes/
 title: "Sous-traitance : Aider les TPE-PME face aux plus grandes"
+tagline: Contre les mauvais payeurs
 ---
 
 # Sous-traitance : Aider les TPE-PME face aux plus grandes

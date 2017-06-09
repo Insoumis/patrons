@@ -1,6 +1,7 @@
 ---
 nav: home
 permalink: /
+tagline:
 ---
 
 # Patron⋅ne⋅s Insoumis⋅es

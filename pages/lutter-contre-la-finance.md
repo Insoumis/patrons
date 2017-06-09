@@ -2,6 +2,7 @@
 nav: lutter-contre-la-finance-pour-relancer-l-economie-reelle
 permalink: /lutter-contre-la-finance-pour-relancer-l-economie-reelle/
 title: Lutter contre la finance pour relancer l'économie réelle
+tagline: Limiter les dividendes et la spéculation pour relancer l'investissement
 ---
 
 # Lutter contre la finance pour relancer l'économie réelle

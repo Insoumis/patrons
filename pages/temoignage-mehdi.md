@@ -2,6 +2,7 @@
 nav: temoignage-entrepreneur-dans-la-silicon-valley-je-rentre-en-france-si-jean-luc-melenchon-est-elu
 permalink: /temoignage-entrepreneur-dans-la-silicon-valley-je-rentre-en-france-si-jean-luc-melenchon-est-elu/
 title: Témoignage de Mehdi, entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.
+tagline: « Avec la concurrence libre et non faussée comme valeur reine, on a lâché des renards libres dans un poulailler libre. »
 ---
 
 # Témoignage de Mehdi, entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.

@@ -2,6 +2,7 @@
 nav: soutenir-la-transition-ecologique-des-entreprises
 permalink: /soutenir-la-transition-ecologique-des-entreprises/
 title: Soutenir la transition écologique des entreprises
+tagline: Pour un développement respectueux de l'environnement et socialement juste
 ---
 
 # Soutenir la transition écologique des entreprises

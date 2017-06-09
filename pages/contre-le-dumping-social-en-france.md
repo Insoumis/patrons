@@ -2,6 +2,7 @@
 nav: contre-le-dumping-social-en-france
 permalink: /contre-le-dumping-social-en-france/
 title: Contre le dumping social en France
+tagline: Protéger les TPE-PME contre la concurrence déloyale
 ---
 
 # Contre le dumping social en France

@@ -2,6 +2,7 @@
 nav: contre-le-dumping-fiscal-en-france
 permalink: /contre-le-dumping-fiscal-en-france/
 title: Contre le dumping fiscal en France
+tagline: L' optimisation fiscale, privilège des grands groupes
 ---
 
 # Contre le dumping fiscal en France

@@ -2,6 +2,7 @@
 nav: relancer-la-demande
 permalink: /relancer-la-demande/
 title: Relancer la demande
+tagline: Remplir les carnets de commandes pour relancer l'activité des entreprises
 ---
 
 # Relancer la demande

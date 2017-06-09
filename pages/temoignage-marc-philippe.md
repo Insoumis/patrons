@@ -2,6 +2,7 @@
 nav: temoignage-marc-a-propos-de-philippe-qui-dirigeait-la-scop-berriat-batiment-une-menuiserie
 permalink: /temoignage-marc-a-propos-de-philippe-qui-dirigeait-la-scop-berriat-batiment-une-menuiserie/
 title: Témoignage de Marc à propos de Philippe, qui dirigeait une menuiserie.
+tagline: « C’est une logique de prédation. »
 ---
 
 # Témoignage de Marc à propos de Philippe, qui dirigeait une menuiserie.

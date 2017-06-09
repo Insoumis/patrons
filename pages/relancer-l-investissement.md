@@ -2,6 +2,7 @@
 nav: relancer-l-investissement
 permalink: /relancer-l-investissement/
 title: Relancer l'investissement
+tagline: Un grand plan d'investissement pour relancer l'activité et remplir les carnets de commandes
 ---
 
 # Relancer l'investissement

@@ -2,6 +2,7 @@
 nav: contre-le-dumping-social-en-europe-et-a-l-international
 permalink: /contre-le-dumping-social-en-europe-et-a-l-international/
 title: Contre le dumping social en Europe et à l'international
+tagline: Harmonisation européenne, fin du travail détaché et protectionnisme solidaire
 ---
 
 # Contre le dumping social en Europe et à l'international

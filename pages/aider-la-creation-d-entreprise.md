@@ -2,6 +2,7 @@
 nav: aider-la-creation-d-entreprises-et-soutenir-l-investissement
 permalink: /aider-la-creation-d-entreprises-et-soutenir-l-investissement/
 title: Aider la création d'entreprises et soutenir l'investissement
+tagline: Accompagner les entrepreneurs et les aider à se financer
 ---
 
 # Aider la création d'entreprises et soutenir l'investissement

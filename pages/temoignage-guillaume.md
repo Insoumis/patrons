@@ -2,6 +2,7 @@
 nav: temoignage-guillaume-technologies-de-controle-qualite-pour-les-cimentiers
 permalink: /temoignage-guillaume-technologies-de-controle-qualite-pour-les-cimentiers/
 title: Témoignage de Guillaume, patron d'un entreprise qui développe des technologies de contrôle qualité
+tagline: « Ils ont misé sur le fait que j’y perdrais ma chemise, et que je ne pourrais pas me défendre. »
 ---
 
 # Témoignage de Guillaume, patron d'un entreprise qui développe des technologies de contrôle qualité

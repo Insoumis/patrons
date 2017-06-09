@@ -2,6 +2,7 @@
 nav: contre-le-dumping-fiscal-en-europe-et-a-l-international
 permalink: /contre-le-dumping-fiscal-en-europe-et-a-l-international/
 title: Contre le dumping fiscal en Europe et à l'international
+tagline: Contre l'optimisation, la fraude et l'évasion fiscale
 ---
 
 # Contre le dumping fiscal en Europe et à l'international

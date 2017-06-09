@@ -2,6 +2,7 @@
 nav: temoignage-stephane-ingenieur
 permalink: /temoignage-stephane-ingenieur/
 title: Témoignage de Stéphane, patron d'un bureau d'études
+tagline: « Ils réclament des ‘‘gestes commerciaux’’, c’est forcé, et ça devient une habitude. »
 ---
 
 # Témoignage de Stéphane, patron d'un bureau d'études

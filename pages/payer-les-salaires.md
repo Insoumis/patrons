@@ -2,6 +2,7 @@
 nav: payer-les-salaires
 permalink: /payer-les-salaires/
 title: Payer les salaires
+tagline: Soutenir les TPE-PME et remplir les carnets de commandes
 ---
 
 # Payer les salaires
