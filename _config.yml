@@ -24,18 +24,6 @@ defaults:
     values:
       layout: "default"
 
-# nav:
-#   - name: aider-la-creation-d-entreprise
-#     title: Aider la création d'entreprises
-#   - name: soulager-les-entreprises
-#     title: Soulager les petites entreprises
-#   - name: soutenir-la-transition-ecologique
-#     title: Transition écologique
-#   - name: contre-le-dumping-social-en-france
-#     title: Dumping social en France
-#   - name: soutenir-les-entrepreneurs-au-quotidien
-#     title: Soutenir les entrepreneurs
-
 nav:
   -
     title: Rétablir l'équilibre
@@ -55,7 +43,7 @@ nav:
         name: soutenir-les-entrepreneurs-au-quotidien
       - title: Payer les salaires
         name: payer-les-salaires
-      - title: Aider la création d'entreprises et soutenir l'investissement
+      - title: Aider à la création d'entreprises et soutenir l'investissement
         name: aider-la-creation-d-entreprises-et-soutenir-l-investissement
   -
     title: Protéger les TPE/PME
@@ -89,7 +77,7 @@ nav:
     title: Témoignages
     name: temoignages
     cats:
-      - title: Stéphane, Patron d'un bureau d'études
+      - title: Stéphane, patron d'un bureau d'études
         name: temoignage-stephane-ingenieur
       - title: Laurent, chaudronnier
         name: temoignage-laurent-chaudronnier
@@ -101,7 +89,7 @@ nav:
         name: temoignage-marc-a-propos-de-philippe-qui-dirigeait-la-scop-berriat-batiment-une-menuiserie
       - title: Laurent Bernard, patron et président de l’UIMM
         name: temoignage-laurent-bernard-president-de-l-uimm-et-directeur-d-opf-a-pont-de-metz
-      - title: « Entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu. »
+      - title: Mehdi, entrepreneur dans la Silicon Valley
         name: temoignage-entrepreneur-dans-la-silicon-valley-je-rentre-en-france-si-jean-luc-melenchon-est-elu
 # Build settings
 assets:
