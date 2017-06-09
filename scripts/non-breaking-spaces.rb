@@ -9,5 +9,4 @@ Dir.glob("_deploy/**/*.html") do |fname|
   text.gsub!(" %", "&nbsp;%")
 
   File.write(fname, text)
-
 end
