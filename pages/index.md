@@ -1,7 +1,7 @@
 ---
 nav: home
 permalink: /
-tagline: site.tagline
+tagline: Petits et gros, même combat ?
 ---
 
 # Patron⋅ne⋅s Insoumis⋅es
