@@ -65,7 +65,7 @@ nav:
       - title: Soutenir la transition écologique des entreprises
         name: soutenir-la-transition-ecologique-des-entreprises
       - title: Soutenir l'économie sociale et solidaire
-        name: soutenir-l-economie-sociale-et-solidaire # TODO
+        name: soutenir-l-economie-sociale-et-solidaire
   -
     title: Relancer l'activité
     name: relancer-l-activite
@@ -82,7 +82,7 @@ nav:
         name: temoignage-stephane-ingenieur
       - title: Laurent, chaudronnier
         name: temoignage-laurent-chaudronnier
-      - title: Christophe Villemain, tailleur de Pierre
+      - title: Christophe Villemain, tailleur de pierre
         name: temoignage-christophe-villemain-tailleur-de-pierre
       - title: Guillaume, technologies de contrôle qualité pour les cimentiers
         name: temoignage-guillaume-technologies-de-controle-qualite-pour-les-cimentiers
