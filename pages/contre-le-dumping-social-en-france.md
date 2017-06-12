@@ -6,8 +6,12 @@ tagline: Protéger les TPE-PME contre la concurrence déloyale
 ---
 
 # Contre le dumping social en France
+{:.no_toc}
 
 Une des causes les plus importantes de concurrence déloyale entre les entreprises est le dumping social. Ce phénomène pousse les entreprises à faire baisser les salaires et les droits de leurs salarié⋅e⋅s pour être plus « compétitives » face à leurs concurrents.
+
+1. Table des matières
+{:toc}
 
 ## La loi travail : Vers un dumping social généralisé
 

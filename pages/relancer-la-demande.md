@@ -6,6 +6,7 @@ tagline: Remplir les carnets de commandes pour relancer l'activité des entrepri
 ---
 
 # Relancer la demande
+{:.no_toc}
 
 Voici une courte vidéo expliquant rapidement comment les PME profiteront du plan de relance de l'économie, et pourront faire face à l'augmentation des salaires :
 
@@ -27,6 +28,8 @@ Favoriser la dépense privée passe par l'augmentation des revenus, du pouvoir d
 
 Augmenter les revenus des travailleur⋅euse⋅s, c'est leur permettre d'augmenter leur pouvoir d'achat, donc de consommer davantage et de meilleure qualité. Suite à l'augmentation de cette demande, les entreprises devront produire plus et donc embaucher. Des personnes au chômage retrouveront un travail et verront leurs revenus augmenter, ce qui leur permettra de consommer davantage et ainsi de suite. C'est un cercle vertueux qui devrait se mettre en place.
 
+1. Table des matières
+{:toc}
 
 ## Explications économiques
 

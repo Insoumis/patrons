@@ -141,7 +141,7 @@ nav li {
 }
 
 .sub {
-  font-weight: 500;
+  font-weight: 400;
   margin-top: 0;
   margin-left: 0;
 }
@@ -341,7 +341,46 @@ img.raised {
   }
 }
 
+#markdown-toc {
+  text-transform: uppercase;
+  margin: 3rem 0 5rem 1.3em;
+  font-size: 1.6rem;
+  font-weight: 400;
+
+  list-style: none;
+  counter-reset: li;
+  li {
+    counter-increment: li;
+    margin-bottom: .3em;
+
+    &::before {
+      content: "." counter(li);
+      color: $red;
+      display: inline-block;
+      width: 1em;
+      margin-left: -1.5em;
+      margin-right: .5em;
+      text-align: right;
+      direction: rtl;
+    }
+
+    &:hover::before {
+      color: $blue;
+    }
+    &:hover a {
+      color: $blue;
+    }
+  }
+
+  a {
+    color: $red;
+  }
+}
+
 @media (max-width: 959px) {
+  h1 {
+    font-size: 2.8rem;
+  }
   .navbar {
     display: flex;
   }
@@ -363,6 +402,9 @@ img.raised {
   }
   .article {
     margin-top: 70px;
+  }
+  .footer li {
+    flex-grow: 0;
   }
 }
 

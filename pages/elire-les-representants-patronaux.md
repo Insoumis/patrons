@@ -6,8 +6,12 @@ tagline: Mettre fin à l'usurpation par le Medef de la parole des chef⋅fe⋅s 
 ---
 
 # Élire les représentant⋅e⋅s patronaux⋅ales
+{:.no_toc}
 
 La représentativité permet à une organisation professionnelle d’employeur⋅euse⋅s de signer des conventions et des accords collectifs de travail, de siéger dans les nombreuses instances de décision des organismes sociaux (Pôle emploi, assurance maladie, formation...) et dans le fonds paritaire national. Plus on est considérée comme « représentative », plus on a de mandats dans ces instances, et plus on a de mandats, plus on a d'argent venant de l'Etat. [En 2013, le Medef avait environ 60% des sièges, et touchait 13 millions d'euros par an de fonds paritaires, soit un tiers de ses recettes](https://www.franceculture.fr/emissions/le-billet-economique/le-medef-represente-t-il-les-entreprises).
+
+1. Table des matières
+{:toc}
 
 ## Une réforme qui ne change rien
 

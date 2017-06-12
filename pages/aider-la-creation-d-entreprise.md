@@ -6,8 +6,12 @@ tagline: Accompagner les entrepreneur⋅e⋅s et les aider à se financer
 ---
 
 # Aider la création d'entreprises et soutenir l'investissement
+{:.no_toc}
 
 Les TPE et les PME représentent l'essentiel des entreprises françaises. [En 2014](http://www.lemonde.fr/economie/article/2016/11/08/tout-ce-que-vous-avez-toujours-voulu-savoir-sur-les-entreprises-francaises-en-10-chiffres_5027592_3234.html), sur 4,4 millions d'entreprises en France, seules 274 employaient plus de 5000 salarié⋅e⋅s. [En 2012](http://www.clesdusocial.com/les-salaries-dans-les-entreprises-en-2012-selon-leur-taille), moins de 1% des entreprises employaient plus de 50 salarié⋅e⋅s. En 2015, les entreprises sans salarié⋅e⋅s représentaient 30% des défaillances, et celles de 1 à 9 salarié⋅e⋅s détenaient le record avec 63% des défaillances, soit 40.000 entreprises. Et [presque la moitié des faillites d'entreprises concernait des entreprises de moins de 5 ans](http://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2016/04/01/29006-20160401ARTFIG00013-defaillances-d-entreprises-quelles-sont-les-entreprises-le-plus-fragiles.php).
+
+1. Table des matières
+{:toc}
 
 ## Difficultés de financement et d'investissement
 

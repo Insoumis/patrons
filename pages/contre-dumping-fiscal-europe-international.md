@@ -6,8 +6,12 @@ tagline: Contre l'optimisation, la fraude et l'évasion fiscale
 ---
 
 # Contre le dumping fiscal en Europe et à l'international
+{:.no_toc}
 
 Le dumping fiscal a un poids énorme à l'échelle européenne et au niveau international. [En 2013](http://www.latribune.fr/actualites/economie/union-europeenne/20130530trib000767424/1000-milliards-d-euros-le-cout-de-l-evasion-fiscale-dans-l-union-europeenne-.html), le Parlement européen estimait que 1.000 milliards d'euros seraient perdus chaque année dans l'Union Européenne (UE) à cause de l'évasion fiscale. Au niveau international, [selon le FMI, en 2012](http://lexpansion.lexpress.fr/actualite-economique/offshore-leaks-les-chiffres-effarants-de-l-evasion-fiscale_1440481.html), il y avait 5500 milliards d'euros dans les paradis fiscaux, soit près de trois fois le PIB de la France, et 50% des transactions mondiales transiteraient par des paradis fiscaux. L'ONG "Tax Justice Network" évaluait même ce montant à entre 16 344 et 25 000 milliards d'euros, soit 10 fois le PIB de la France. [Un calcul de l’organisation Oxfam](https://www.oxfam.org/fr/salle-de-presse/communiques/2017-03-27/banques-en-exil-un-quart-des-benefices-des-banques) révèle qu'en 2016, les vingt premières banques européennes réalisaient en moyenne un quart de leurs bénéfices au sein de paradis fiscaux. Parmi elles, BNP Paribas arrivait en quatrième position (32%), et la Société Générale était sixième (22%).
+
+1. Table des matières
+{:toc}
 
 ## L'optimisation fiscale, une pratique courante pour les multinationales en Europe
 

@@ -6,8 +6,12 @@ tagline: Pour un développement respectueux de l'environnement et socialement ju
 ---
 
 # Soutenir la transition écologique des entreprises
+{:.no_toc}
 
 Un développement respectueux de l'environnement et socialement juste est un pré-requis indispensable à la construction d'un avenir en commun.
+
+1. Table des matières
+{:toc}
 
 ## Facilités de crédits
 

@@ -6,8 +6,12 @@ tagline: Remettre l'économie au service du bien commun
 ---
 
 # Soutenir l'économie sociale et solidaire
+{:.no_toc}
 
 L’Économie Sociale et Solidaire (ESS) est un mode de production au service des territoires, qui privilégie la place de la personne sur le profit, la réalisation du projet collectif et la pérennité financière de la structure. Elle inclut des initiatives de développement local, de réinsertion et de lutte contre l’exclusion, de protection de l’environnement ou de solidarité internationale. Ses principes fondamentaux sont : la gestion démocratique, la solidarité et la défense de l’intérêt général, la libre adhésion, la lucrativité limitée (en encadrant notamment les salaires et en limitant la rémunération du capital) et la juste répartition des excédents.
+
+1. Table des matières
+{:toc}
 
 ## Un secteur en pleine croissance
 

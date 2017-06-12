@@ -6,8 +6,12 @@ tagline: Contre les mauvais⋅es payeur⋅euse⋅s
 ---
 
 # Sous-traitance : Aider les TPE-PME face aux plus grandes
+{:.no_toc}
 
 [Pour Pierre Gattaz](http://www.medef.com/nc/medef-corporate/salle-de-presse/discours/discours/back/102/article/discours-dinvestiture-de-pierre-gattaz-president-du-medef-2.html), le président du Medef, « _le monde de l’entreprise en France est une force nationale, une force unie (…) nous avons montré que l’esprit de concurrence et de compétition qui nous animait, comme elle anime tout entrepreneur, ne pouvait en aucun cas se confondre avec des affrontements destructeurs_ ». Pourtant, les « _affrontements destructeurs_ » sont quotidiens dans « _le monde de l'entreprise_ ».  Les problèmes interentreprises sont la principale source de stress pour les petit⋅e⋅s patron⋅ne⋅s. D'après [une étude de l’observatoire Amarok](http://www.observatoire-amarok.net/sites/default/files/lechat_torres_ripme_2016_vol_29_ndeg3-4_pp_135-159_0.pdf) sur « _les dix principales sources de stress professionnel_ »  pour les patron⋅ne⋅s de PME, les problèmes interentreprises occupent une place incontournable : derrière la « _surcharge de travail_ », la « _pression de la concurrence_ » arrivait deuxième (84,6 %), suivie de « _la perte d’un⋅e client⋅e_ » (68,8 %), d'une « _facture impayée_ » (67,5 %), de « _la chute des commandes_ » (66,4 %) et d'un « _conflit avec un⋅e client⋅e_ » (66,4 %), la pression fiscale n'arrivant qu'en neuvième position (60,6 %).
+
+1. Table des matières
+{:toc}
 
 ## Les retards de paiements, première cause de faillite
 

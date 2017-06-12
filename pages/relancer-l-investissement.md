@@ -6,8 +6,12 @@ tagline: Un grand plan d'investissement pour relancer l'activité et remplir les
 ---
 
 # Relancer l'investissement
+{:.no_toc}
 
 La France Insoumise (FI) prévoit d’injecter 102 milliards d'euros supplémentaires sur 5 ans dans l'économie, pour des investissements écologiquement et socialement utiles, soit environ 20 milliards d’euros par an.
+
+1. Table des matières
+{:toc}
 
 ## Le plan d'investissement
 

@@ -6,8 +6,12 @@ tagline: Sécurité sociale, retraite, droits sociaux, salariat, familles…
 ---
 
 # Soutenir les entrepreneur⋅e⋅s au quotidien
+{:.no_toc}
 
 L'Avenir en Commun prévoit plusieurs mesures pour améliorer la vie des entrepreneur⋅e⋅s et des petit⋅e⋅s patron⋅ne⋅s :
+
+1. Table des matières
+{:toc}
 
 ## RSI et Sécurité sociale
 

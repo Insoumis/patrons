@@ -6,8 +6,12 @@ tagline: Limiter les dividendes et la spéculation pour relancer l'investissemen
 ---
 
 # Lutter contre la finance pour relancer l'économie réelle
+{:.no_toc}
 
 Ce qu'on appelle la « financiarisation de l'économie » est le poids grandissant de l'endettement et des marchés financiers dans l'économie et dans le financement de celle-ci. Les entreprises se financent de plus en plus sur les marchés, et moins par des emprunts auprès des banques, tandis que celles-ci spéculent de plus en plus. Pour une explication complète et rapide sur ce processus, voir [cette vidéo](https://www.youtube.com/watch?v=OcNftI9gKHI).
+
+1. Table des matières
+{:toc}
 
 ## De plus en plus de dividendes pour de moins en moins d'entreprises
 

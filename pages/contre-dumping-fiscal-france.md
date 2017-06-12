@@ -6,8 +6,12 @@ tagline: L' optimisation fiscale, privilège des grands groupes
 ---
 
 # Contre le dumping fiscal en France
+{:.no_toc}
 
 Le dumping fiscal en France se fait par la fraude fiscale, et par « l'optimisation fiscale », qui passe par l'utilisation de nombreuses niches fiscales et exonérations de cotisations. La fraude fiscale représente un manque à gagner de 60 à 80 milliards d’euros par an pour l'Etat. Elle prend plusieurs formes, parmi les principales pratiques : [« _le travail dissimulé, la fraude à la TVA, la sous-estimation de la valeur du patrimoine, le paiement de sommes en liquide non déclarées_ »](https://www.bastamag.net/Comment-recuperer-200-milliards-d-euros-sans-imposer-aux-Francais-une-cure-d). Parmi ces fraudeur⋅euse⋅s, les deux tiers seraient des entreprises, l’autre tiers des particulier⋅e⋅s.
+
+1. Table des matières
+{:toc}
 
 ## L' optimisation fiscale, privilège des grands groupes
 

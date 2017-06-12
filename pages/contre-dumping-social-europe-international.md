@@ -6,8 +6,12 @@ tagline: Harmonisation européenne, fin du travail détaché et protectionnisme 
 ---
 
 # Contre le dumping social en Europe et à l'international
+{:.no_toc}
 
 La lutte contre le dumping social en Europe et à l'international est une priorité pour la France Insoumise. Alors que l'Europe a été créée pour rapprocher les peuples et favoriser leur coopération, aujourd'hui, l'Union Européenne (UE) favorise surtout la compétition entre les pays, entre les entreprises et entre les travailleur⋅euse⋅s.
+
+1. Table des matières
+{:toc}
 
 ## Une harmonisation européenne pour en finir avec la concurrence déloyale
 

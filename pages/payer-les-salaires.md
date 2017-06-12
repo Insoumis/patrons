@@ -6,6 +6,10 @@ tagline: Soutenir les TPE-PME et remplir les carnets de commandes
 ---
 
 # Payer les salaires
+{:.no_toc}
+
+1. Table des matières
+{:toc}
 
 ## Améliorations fiscales
 
