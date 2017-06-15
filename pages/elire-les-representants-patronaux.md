@@ -1,8 +1,8 @@
 ---
 nav: elire-des-representants-patronaux
 permalink: /elire-des-representants-patronaux/
-title: Élire les représentants patronaux
-tagline: Mettre fin à l'usurpation par le Medef de la parole des chefs d'entreprises
+title: Élire les représentant⋅e⋅s patronaux⋅ales
+tagline: Mettre fin à l'usurpation par le Medef de la parole des chef⋅fe⋅s d'entreprises
 ---
 
 # Élire les représentant⋅e⋅s patronaux⋅ales

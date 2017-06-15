@@ -1,7 +1,7 @@
 ---
 nav: soutenir-les-entrepreneurs-au-quotidien
 permalink: /soutenir-les-entrepreneurs-au-quotidien/
-title: Soutenir les entrepreneurs au quotidien
+title: Soutenir les entrepreneur⋅e⋅s au quotidien
 tagline: Sécurité sociale, retraite, droits sociaux, salariat, familles…
 ---
 
