@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrons insoumis
-tagline: "Petits et gros, même combat ?"
+title: Patron⋅ne⋅s insoumis⋅es
+tagline: "Petit⋅e⋅s et gros⋅ses, même combat ?"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://patrons.insoumis.info" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -30,7 +30,7 @@ nav:
     title: Rétablir l'équilibre
     name: retablir-l-equilibre
     cats:
-      - title: Élire les représentants patronaux
+      - title: Élire les représentant⋅e⋅s patronaux⋅ales
         name: elire-des-representants-patronaux
       - title: "Sous-traitance : Aider les TPE-PME face aux plus grandes"
         name: sous-traitance-aider-les-tpe-pme-face-aux-plus-grandes
@@ -40,7 +40,7 @@ nav:
     title: Soutenir les TPE/PME
     name: soutenir-les-tpe-pme
     cats:
-      - title: Soutenir les entrepreneurs au quotidien
+      - title: Soutenir les entrepreneur⋅e⋅s au quotidien
         name: soutenir-les-entrepreneurs-au-quotidien
       - title: Payer les salaires
         name: payer-les-salaires
