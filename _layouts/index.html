@@ -1,21 +1,20 @@
-<!doctype html>
-<html lang="fr">
-  {% include head.html %}
-  <body>
-    <main>
-      {% include header.html %}
-      <div class="container">
-        {% if page.nav == "home" %}
-          <div class="intro">
-        {% else %}
-          <div class="article">
-        {% endif %}
-          <div class="content">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-    </main>
-    {% include footer.html %}
-  </body>
-</html>
+---
+layout: default
+---
+{{ content }}
+
+<h1>Plan du site</h2>
+<ol class="home-nav">
+{% for nav in site.nav %}
+  <li>
+    <h2>{{nav.title}}</h2>
+    <ol>
+      {% for cat in nav.cats %}
+        <li>
+          <a href="/{{cat.name}}">{{cat.title}}</a>
+        </li>
+      {% endfor %}
+    </ol>
+  </li>
+{% endfor %}
+</ol>

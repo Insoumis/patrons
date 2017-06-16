@@ -13,7 +13,7 @@ La France Insoumise (FI) prévoit d’injecter 102 milliards d'euros supplément
 1. Table des matières
 {:toc}
 
-## Le plan d'investissement
+{% header Le plan d'investissement %}
 
 ![45 milliards dans l'urgence sociale](https://scontent.xx.fbcdn.net/v/t31.0-8/16797622_10155096763938750_5883449515252404990_o.jpg?oh=0c920cf44039fa54d340d7c510aebc5c&oe=5992F55F)
 
@@ -23,7 +23,7 @@ La France Insoumise (FI) prévoit d’injecter 102 milliards d'euros supplément
 
 L’essentiel de cet investissement se fera au bénéfice des entreprises locales. Par exemple, dans le cas du [« plan 0 obstacles »](https://laec.fr/s68m1), une mairie pourra faire appel à une entreprise de BTP locale afin de construire une rampe d’accès à un bâtiment municipal.
 
-## Efficacité économique
+{% header Efficacité économique %}
 
 Les études récentes sur le sujet, du FMI par exemple, indiquent que l’investissement public a un fort effet d'entraînement sur l’investissement privé. Les nouveaux projets et l’amélioration des infrastructures génèrent de nouvelles activités et de nouvelles initiatives, renforçant l’effet initial. D’après l’économiste Paul Ragot, l’investissement public rapporterait[ entre 1,3 et 2,5 euros par euro investi](http://www.lemonde.fr/idees/article/2016/11/04/l-investissement-public-est-la-cle-de-la-reprise-economique_5025661_3232.html). [Le FMI plaide aussi pour la hausse des investissements publics](https://www.lesechos.fr/02/12/2016/lesechos.fr/0211556543481_investissement-public---le-plaidoyer-de-l-ofce.htm), mais selon l'OFCE, ils doivent se faire [en priorité dans la transition énergétique ou l'éducation](https://www.lesechos.fr/02/12/2016/lesechos.fr/0211556543481_investissement-public---le-plaidoyer-de-l-ofce.htm) pour être efficaces. Dans ces prévisions budgétaires, la France Insoumise est restée prudente et a retenu un coefficient multiplicateur des investissements publics de [1,4](https://www.youtube.com/watch?v=T7b67QCjibc).
 
@@ -34,7 +34,7 @@ La relance par l’investissement public est moins intensive en importations que
 La redistribution des richesses diminuera le poids des importations. Selon un rapport publié par le Sénat, 12,5 % de la consommation des plus pauvres correspond à des produits importés (15 % pour les plus riches).
 Toutefois, les infrastructures en énergies renouvelables sont en grande mesure importées. La transition requiert une logique d’ensemble et une politique industrielle ambitieuse. C’est pourquoi la [planification écologique](https://avenirencommun.fr/livret-planification-ecologique-regle-verte/) est nécessaire pour créer des filières nationales. »
 
-## *Qu’est ce que le « protectionnisme solidaire » ?
+{% header *Qu’est ce que le « protectionnisme solidaire » ? %}
 
 D'après le livret thématique « [Produire en France](https://avenirencommun.fr/livret-planification-ecologique-regle-verte/) » :
 
@@ -55,7 +55,7 @@ Il s’agit aussi de mettre en place un contrôle des capitaux afin de lutter co
 - Exclure de toute commande publique les entreprises ayant des filiales dans les paradis fiscaux.
 - Mettre en place une taxation des importations sur les entreprises ayant délocalisé, taxation qui alimenterait un « Fonds solidaire d’aide à la relocalisation et de lutte contre les délocalisations », en remplacement du Fonds d’ajustement de la mondialisation. »
 
-## Financement du plan d'investissement
+{% header Financement du plan d'investissement %}
 
 Au niveau du financement de ce plan d’investissement, la France Insoumise a fait un [chiffrage précis](https://www.youtube.com/watch?v=T7b67QCjibc) pour les recettes. Elle prévoit 190 milliards d'euros de recettes par an, dont 55 milliards d'euros qui viendraient de la relance économique, le reste se répartissant de la manière suivante :
 

@@ -21,6 +21,11 @@ main {
 
 blockquote {
   font-style: italic;
+
+  & > p {
+    font-size: 2rem;
+    text-transform: uppercase;
+  }
 }
 
 .unstyled-link {
@@ -374,6 +379,26 @@ img.raised {
 
   a {
     color: $red;
+  }
+}
+
+.home-nav {
+  font-size: 1.6rem;
+  list-style-type: none;
+  text-align: center;
+
+  h2 {
+    margin: 0.5em 0 1em;
+  }
+  & > li > a {
+    font-size: 2.5rem;
+  }
+  li {
+    text-transform: uppercase;
+  }
+  ol {
+    margin: 0rem 0 5.5rem;
+    list-style-type: none;
   }
 }
 

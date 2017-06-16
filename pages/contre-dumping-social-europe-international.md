@@ -13,7 +13,7 @@ La lutte contre le dumping social en Europe et à l'international est une priori
 1. Table des matières
 {:toc}
 
-## Une harmonisation européenne pour en finir avec la concurrence déloyale
+{% header Une harmonisation européenne pour en finir avec la concurrence déloyale %}
 
 La France est le deuxième pays européen au niveau du montant des prélèvements obligatoires, d'après [un calcul qui prend en compte les cotisations sociales patronales et salariales, l'impôt sur le revenu, et la TVA](http://www.lefigaro.fr/economie/le-scan-eco/dessous-chiffres/2015/07/29/29006-20150729ARTFIG00006-en-france-pour-100-euros-nets-il-faut-235-euros-de-salaire-super-brut.php). En Belgique, un employeur moyen doit dépenser 246 euros pour 100 euros de salaires, quand à Chypre il doit payer 133 euros, 155 au Royaume-Uni ou 176 en Espagne. Cette situation crée donc une concurrence déloyale entre les entreprises. Ce sont surtout les grandes entreprises qui en profitent, car elles ont les moyens de délocaliser pour s'installer dans les pays ou les coûts sont moins élevés. Elles profitent des salaires et des droits sociaux moins élevés qui sont pratiqués dans certains pays d'Europe de l'est et d'ailleurs, ce qui provoque nombre de délocalisations, et accélère la désindustrialisation du pays. [D'après un rapport de l'INSEE](http://www.humanite.fr/les-multinationales-francaises-jouent-la-carte-du-dumping-social-636102), dans les « PECO », c'est à dire les pays d’Europe centrale entrés dans l’Union Européenne en 2004 et en 2007, le coût salarial par tête est trois fois moins élevé que dans le reste de l’UE.
 
@@ -24,7 +24,7 @@ Pour retenir les entreprises, les Etats sont donc incités à baisser leurs coti
 
 Face à ce problème, le Medef réclame en permanence de baisser le « _coût du travail_ ». Mais c'est une course sans fin qui mènera à la destruction de toute forme de solidarité ! La seule véritable solution est de revenir à l'esprit initial de l'Europe, en « _sortant des traités_ » et en allant enfin vers une harmonisation fiscale et sociale des Etats membres, qui devrait empêcher toute forme de concurrence déloyale entre les entreprises. La France doit donc prendre ses responsabilités et impulser ce processus, [en inscrivant une clause de non-régression des droits sociaux](https://laec.fr/s51m7). C'est ce qu'on appelle le [plan A](https://laec.fr/s51), et c'est la priorité de la FI. Le [plan B](https://laec.fr/s52), en cas d'échec des négociations, c'est la sortie de l'UE, en ne restant pas isolé⋅e⋅s et en construisant de nouvelles coopérations. Si il y a un plan B, c'est aussi pour donner plus de poids à la France dans les négociations du plan A.
 
-## Cesser d'appliquer la directive sur les travailleur⋅euse⋅s détaché⋅e⋅s
+{% header Cesser d'appliquer la directive sur les travailleur⋅euse⋅s détaché⋅e⋅s %}
 
 Quelque soit le résultat de ces négociations, le programme de la FI prévoit de [cesser d'appliquer unilatéralement la directive sur le détachement de travailleur⋅euse⋅s](https://laec.fr/s49m2 ) en France. Cette directive permet à des employeur⋅euse⋅s d'embaucher des travailleur⋅euse⋅s venant d'autres Etats membres de l'UE, pour une période soi-disant limitée.  Si l'employeur doit respecter le SMIC et, dans le BTP, le minimum conventionnel, les cotisations sociales appliquées sont celles du pays d'origine. Cette directive avantage donc les entreprises qui emploient des travailleur⋅euse⋅s détaché⋅e⋅s. Cette pratique est de plus en plus fréquente : Entre 2005 et 2015, en France, [le nombre de travailleur⋅euse⋅s détaché⋅e⋅s déclaré⋅e⋅s a été multiplié par plus de 10 (de 26 466 à 286 025), et il a augmenté de 25% entre 2014 et 2015](http://www.rtl.fr/actu/conso/travailleurs-detaches-ce-qu-il-faut-savoir-7783433981).
 
@@ -35,7 +35,7 @@ Certaines entreprises se servent aussi de ce statut, sans même respecter la lé
 
 Pour la France Insoumise, la réponse est claire, [nous refuserons de continuer à appliquer cette directive :  la législation nationale doit s'appliquer totalement, y compris concernant les cotisations sociales](https://laec.fr/s49m2), qui doivent donc êtres les mêmes pour tou⋅te⋅s les travailleur⋅euse⋅s. Ce qui permettra de supprimer une importante source de concurrence déloyale, qui profite essentiellement aux grandes entreprises.
 
-## Le protectionnisme solidaire contre le dumping social international
+{% header Le protectionnisme solidaire contre le dumping social international %}
 
 Le dumping social se pratique [en Europe, mais aussi à l'international, et de nombreuses multinationales françaises en profitent](http://www.humanite.fr/les-multinationales-francaises-jouent-la-carte-du-dumping-social-636102). Au niveau international, la France Insoumise défend le principe du  protectionnisme solidaire, qui consiste à chercher à développer notre tissu productif, via des partenariats négociés avec les pays étrangers, pour éviter d’importer des produits participant à la destruction de la nature ou à la remise en cause de droits humains fondamentaux. Cela peut donc se traduire par des droits de douane, par des interdictions de certains produits, ou au contraire par des subventions aux produits nationaux.
 

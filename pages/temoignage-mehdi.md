@@ -5,13 +5,13 @@ title: Témoignage de Mehdi, entrepreneur dans la Silicon Valley, je rentre en F
 tagline: « Avec la concurrence libre et non faussée comme valeur reine, on a lâché des renards libres dans un poulailler libre. »
 ---
 
-# Témoignage de Mehdi, entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.
+# Témoignage de Mehdi : « Entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu. »
+{:.no_toc}
 
 Ce texte a été publié le 17 avril 2017 sur la « Tribune de la France Insoumise ». [Voir le texte original ici](http://tribune.insoumis.online/posts/entrepreneur-je-rentre-si-melenchon-gagne.md/).
 
-
-# Entrepreneur dans la Silicon Valley, je rentre en France si Jean-Luc Mélenchon est élu.
-
+1. Table des matières
+{:toc}
 
 On peut dire ce que l’on veut, mais être un entrepreneur c’est être quelque part un contestataire de l’ordre établi. Un insatisfait de l’existant, un insoumis, qui souhaite apporter au monde une nouvelle offre. Elle peut être commerciale, technologique, ergonomique, industrielle, mais elle se fera toujours à travers un collectif humain, dans la quasi totalité des cas sous la forme de l’entreprise. On entreprend pour plusieurs raisons selon les individus. Pour changer les choses, pour son indépendance, pour l’argent, pour la gloire. Mais vraiment très peu entreprennent dans le seul but d’être milliardaire. Ceux qui le font d’ailleurs uniquement dans ce but en général n’y arrivent pas.
 
@@ -43,7 +43,7 @@ Dans un deuxième temps, son rôle est de garantir la neutralité, l’équité,
 
 Cette infrastructure pour mieux entreprendre, c’est ce que propose le programme de l’avenir en commun quand on le regarde dans le détail et qu’on dépasse les effets de manches du tribun. Une infrastructure de l’intelligence collective, numérique, technologique, financière, juridique, fiscale et écologique.
 
-### Dans une économie de la connaissance — le vrai capital est d’abord humain
+{% header Dans une économie de la connaissance — le vrai capital est d’abord humain %}
 
 En tant qu’entrepreneur on comprend très vite que le vrai capital est d’abord humain. Les investisseurs du monde entier le reconnaissent. On investit d’abord sur une équipe avant d’investir sur un projet. Comme ils disent si bien Bet on the jockey not on the horse! (Misez sur le jockey, non pas sur le cheval!) Le programme de JLM et la philosophie qui est derrière sont ancrés dans cette économie de la connaissance. Car la nouvelle économie, c’est celle où le capital des entreprises est d’abord le capital humain immobilisé dans les compétences et l’expérience des hommes et des femmes qui la composent.
 
@@ -55,7 +55,7 @@ Se préparer à cette économie, c’est miser sur l’éducation, la formation 
 
 Le programme de l’Avenir en commun est le plus orienté sur l’éducation. Avec l’embauche de plus de professeurs et d’éducateurs pour la jeunesse, avec l’école obligatoire jusqu’à 18 ans, avec l’allocation étudiant qui permet de se concentrer sur ses études au lieu de travailler en dehors, avec de nouveaux crédits pour l’université et la recherche, c’est un programme d’avenir pour l’entreprenariat sur le long terme, et une base solide pour assurer le renouvellement des compétences dans cette nouvelle économie où le savoir est une arme. Aucun autre candidat en possibilité de gagner l’élection n’a mis l’éducation autant en priorité dans son programme.
 
-### Combler les trous du financement de l’innovation
+{% header Combler les trous du financement de l’innovation %}
 
 A San Francisco, si vous avez une bonne équipe, un bon projet et des premiers résultats encourageants, vous pouvez avoir des investisseurs qui vous signent un chèque de 500,000$ -ou plus- après une discussion autour d’un café -c’est arrivé à un bon ami, il se reconnaîtra!. Ou bien si vous êtes plus patients et avez plus d’ambition, des fonds d’investissement peuvent mettre plusieurs millions de dollars sur votre projet après quelques semaines d’entretien et de suivi. C’est le résultat d’un écosystème qui a mis plusieurs décennies à se structurer. C’est aussi du fait que toute les externalités sont là, notamment les talents et les clients pour favoriser cette prise de risque financier. En France, c’est plus compliqué. Le tissu des investisseurs n’est pas aussi structuré et les banques françaises ne savent pas financer l’innovation des startups. Avec un faible capital social de départ (mais haut capital humain), peu d’actifs autres que quelques ordinateurs, pas de stock de marchandises car tout est digital, peu ou pas de chiffre d’affaires pendant une longue période en attendant de peaufiner leur modèle d’affaire, aucune banque classique ne financera un projet de startup. Elles ne sont d’ailleurs pas faites pour cela, créées dans un autre paradigme économique qui appartient au passé. C’est là où la réforme de la Banque Publique d’Investissement, cet organisme financier public dédié au financement de l’innovation, entre en jeu.
 
@@ -67,7 +67,7 @@ De plus, le Crédit Impôt Recherche, cet outil de remboursement d’une partie 
 
 Au niveau juridique, JLM prône une compétition plus équitable avec un code du travail pour tous en abrogeant la loi El Khomri. En effet, l’application de cette loi travail (quelle hypocrisie de l’avoir appelée comme cela) est la garantie d’une concurrence déloyale entre entreprises sur le long terme. Nous comprenons bien que si chaque entreprise est capable, avec l’accord/contrainte des salariés, de modifier leurs conditions de travail en dessous du niveau de la loi, ce qu’on appelle changer la hiérarchie des normes, alors il se crée immédiatement un nivellement par le bas par rapport aux autres du même secteur dans tout le pays, qui à leur tour vont devoir s’aligner à la baisse avec l’accord/contrainte des salariés pour rester compétitifs, et tous les salariés y perdent sans gagner de parts de marchés au final. Un même code du travail garantit pour sa part des conditions égales de concurrence dans le cadre de la loi sur le même territoire. L’abrogation de la loi El Khomri est la garantie que nous serons aussi égaux devant la loi dans l’entreprise et que les entreprises sont sur un marché sans biais juridiques internes. L’entreprise n’est pas un espace exempt d’égalité de droits. Au niveau national, la compétition équitable sera alors garantie mais qu’en sera t-il au niveau international et au niveau de la compétitivité? C’est là que la bifurcation du CICE — Crédit Impôt Compétitivité Emploi — intervient.
 
-### Des incitations fiscales intelligentes pour stimuler efficacement l’emploi
+{% header Des incitations fiscales intelligentes pour stimuler efficacement l’emploi %}
 
 Aujourd’hui, le CICE finance à hauteur de 40 milliards d’euros les réductions de charge des entreprises avec de l’argent public, même celles qui ne souffrent pas de la compétitivité internationale. On estime que le coût d’un emploi sauvé par le CICE à été entre 300 000 et 600 000€. C’est donc en fait les marges des entreprises qui ont été financées avec de l’argent public. Quel gâchis. Il faut être plus stratège et concentrer les efforts sur ceux qui en ont besoin. La compétitivité est importante quand on est entrepreneur. Encore plus quand on est en concurrence avec le monde entier. Nous avons vu plus haut que le même code du travail garantit une concurrence équitable au niveau national. Le problème se pose quand le travail en France finance dans la quasi-intégralité le système social Français de la santé, du chômage et des retraites alors que dans d’autres pays ce n’est pas le cas. Alors comment améliorer la compétitivité au niveau international pour les entreprises françaises tout en favorisant l’emploi? Tout d’abord il faut rappeler quelque chose de très simple :
 
@@ -81,7 +81,7 @@ Pour financer cela, il faudra, contraindre les groupes multinationaux à payer d
 
 L’optimisation fiscale est légale mais injuste, car elle crée deux types d’entreprises. Celles qui peuvent se payer des montages fiscaux et éviter l’impôt, jouant avec les failles juridiques du système international, et les autres. Être égal sur un marché, c’est aussi être égal devant l’impôt. Sinon comment une PME peut avoir une compétition équitable avec un concurrent, déjà plus gros que lui, et qui en plus ne paye moins d’impôts en proportion de ses gains?
 
-### Une relance par l’investissement et par la demande car ce n’est pas le patron qui paye les salaires, c’est le client.
+{% header Une relance par l’investissement et par la demande car ce n’est pas le patron qui paye les salaires, c’est le client. %}
 
 Dans le programme l’avenir en commun, il est prévu de relancer l’économie en augmentant le SMIC. Car les petits salaires dépensent en consommation la quasi-totalité de leurs revenus et n’épargnent presque pas. En consommant,ce sont eux qui vont remplir les tables de restaurants ou les salons de coiffure de nos entrepreneurs cités plus haut.
 
@@ -100,7 +100,7 @@ Avec 100 milliards d’investissement dans le programme de JLM, ce sont de formi
 
 Et si les marchés ont peur et font monter les taux d’intérêts? Cet emprunt pourra être fait en empruntant directement aux Français. Cela fera un cercle dans une sorte d’appel aux don où Les Français prêtent aux Français. Ca coûtera peut-être un peu plus cher en intérêt mais ça restera dans l’économie française. Au Japon ils font ca depuis longtemps et leur dette n’est pas une menace, bien que représentant près de 250% du PIB. Une fois ces investissements réalisés, la France sera redevenue une terre fertile pour l’investissement en capital, grâce à des infrastructures performantes et utiles, un écosystème aux externalités positives qui garantissent souvent un meilleur retour sur investissement. Cela fera revenir les investisseurs qui dans leur logique financière cherchent logiquement le meilleur placement pour le moindre risque financier. On peut donc faire passer les intérêts du Peuple sans diminuer (et même augmenter) l’intérêt des investisseurs. On se rapprocherait d’un optimum de Pareto dit comme cela, non?
 
-### Une autre distribution des richesses pour une économie plus efficace
+{% header Une autre distribution des richesses pour une économie plus efficace %}
 
 Limiter les écarts de salaires de 1 à 20 dans l’entreprise est d’un bon sens tellement commun que même Gérard Mulliez, fondateur d’Auchan le préconise ou même JP Morgan au début du 20ème siècle qui le prônait également au sein de la banque qu’il a fondée. Personne ne peut les accuser de communisme. Plus anciennement, il y a 2 000 ans, Platon préconisait un écart de revenus de 1 à 5 dans la Cité. Cela fait longtemps qu’on réfléchit à la question et qu’on connaît la réponse. Si les banquiers les plus prospères de leur génération, les entreprises familiales les plus puissantes et les philosophes grecs sont d’accords, n’avons nous pas là une forme de consensus sur la répartition de la valeur co-créée par le travail collectif ?
 
@@ -118,7 +118,7 @@ L’accumulation d’argent s’interprète politiquement. Pour certains, c’es
 
 Pour d’autres, comme moi, cette accumulation d’argent, c’est de l’accumulation de la valeur sur le capital de la société, captée au détriment du travail du collectif. Parce que soyons sérieux. Qui peut réellement créer un milliard d’euros de richesses à lui tout seul? Ce milliardaire a dû capter une part de richesse sur un grand nombre de gens, ses salariés, ses clients, le marché, les services publics, et sur la durée pour en arriver à imposer ce rapport de force dans la partage de la valeur. Une sorte de surtravail (ou plus-value) accaparé sur toute la chaîne des acteurs de la société dans son ensemble, et qui s’est concentré dans les mains d’un seul propriétaire. Ne parlons même pas de morale. C’est juste inefficace économiquement ! Un marché est plus performant quand le pouvoir d’achat de ses agents est réparti. Un peu comme l’irrigation en agriculture. On produit plus et mieux quand toute le monde a de l’eau que quand quelques uns ont en beaucoup et les autres pas assez…
 
-### Passer de la dés-Union Européenne à l’Europe politique pour défendre la marque Europe
+{% header Passer de la dés-Union Européenne à l’Europe politique pour défendre la marque Europe %}
 
 Au niveau Européen, JLM a un plan A et un plan B. Le plan A est de renégocier les traités de l‘Union Européenne pour la réorienter, le plan B est de sortir des traités de l’Union Européenne (mais pas de l’Europe) en cas d’échec du plan A. Il est important de comprendre que l’Union européenne et l’Europe ce n’est pas la même chose. L’Union Européenne est une association politique et économique particulière, de certains pays de l’Europe, 27 exactement depuis la sortie programmée du Royaume -Uni. C’est une entité supranationale fondée en 1993 suite à la ratification du traité de Maastricht. L’Europe quant à elle est la zone géographique du continent européen qui contient plus de pays que l’Union européenne, dont les limites sont principalement la mer Méditerranée au sud, l’océan atlantique à l’ouest et dont les limites à l’est sont débattues. La Suisse ou l’Ukraine par exemple font partie de l’Europe mais pas de l’Union européenne. Il existe de très nombreuses coopérations entre les pays d’Europe hors de l’Union Européenne. On peut donc parler d’une Union européenne aux traités renégociés, appelé le plan A ou bien d’Europe, d’Europe Politique, d’une autre Union d’Europe par d’autres traités différents de l’Union Européenne, le plan B.
 

@@ -13,13 +13,13 @@ Le dumping fiscal a un poids énorme à l'échelle européenne et au niveau inte
 1. Table des matières
 {:toc}
 
-## L'optimisation fiscale, une pratique courante pour les multinationales en Europe
+{% header L'optimisation fiscale, une pratique courante pour les multinationales en Europe %}
 
 En France, lorsqu’un⋅e internaute commande un article sur le site d'Amazon, [la transaction est effectuée au Luxembourg](http://www.parismatch.com/Actu/Economie/Optimisation-fiscale-les-pratiques-des-multinationales-passees-au-crible-850851). [Même chose quand on achète un hamburger à McDonald’s](http://bfmbusiness.bfmtv.com/entreprise/l-enorme-redressement-fiscal-de-mcdonald-s-france-968068.html), une partie est reversée à une de ses filiales dans ce pays. Ces multinationales bénéficient au Luxembourg d'une dérogation au taux officiel de l’impôt sur les bénéfices (un «rescrit fiscal»), qui fait qu'elles n'y payent quasiment rien, [un peu plus d'1% pour McDonald's](http://bfmbusiness.bfmtv.com/entreprise/l-enorme-redressement-fiscal-de-mcdonald-s-france-968068.html) par exemple. D'autres multinationales [comme Microsoft ou Google](http://www.parismatch.com/Actu/Economie/Optimisation-fiscale-les-pratiques-des-multinationales-passees-au-crible-850851) le font via des filiales en Irlande, ou le taux d’impôt sur les sociétés est de 12,5%, contre 33,3% en France.
 
 L'entreprise [eBay annonçait en 2014](http://www.parismatch.com/Actu/Economie/Optimisation-fiscale-les-pratiques-des-multinationales-passees-au-crible-850851) un chiffre d’affaires de 2 milliards d’euros au Royaume-Uni et de 1,6 milliard en Allemagne, alors qu'en France, elle déclarait seulement 7 millions d’euros de bénéfices. La même année, elle déclarait n'avoir que 17 salarié⋅e⋅s sur le territoire français... D'autres techniques sont utilisées comme le fait de déclarer tout son chiffre d'affaire à l'export, ou l'utilisation d'un système de prêts entre filiales pour camoufler les bénéfices. L’optimisation fiscale est légale mais injuste, car elle crée deux types d’entreprises. Celles qui peuvent se payer des montages fiscaux et éviter l’impôt, jouant avec les failles juridiques du système international, et les autres.
 
-## Agir en France et au niveau international
+{% header Agir en France et au niveau international %}
 
 Face à ce problème, en Europe, la première chose à faire est de mener [une politique volontariste et rapide d'harmonisation sociale et fiscale par le haut dans toute l'UE](https://laec.fr/s51m7) avec inscription d'une clause de non-régression des droits sociaux, pour mettre fin au dumping à l'intérieur de l'Union. Au niveau international, il nous semble important  de mettre un frein au développement du libre-échange, qui favorise la course au dumping fiscal. D'abord en [refusant les traités de libre-échange](https://laec.fr/s49m4), comme le traité transatlantique TAFTA entre l'UE et les États-Unis, ou le CETA avec le Canada. Ensuite, en [sortant du FMI et de la Banque mondiale au profit d'autres organisations internationales](https://laec.fr/s57m2) comme la Cnuced.
 

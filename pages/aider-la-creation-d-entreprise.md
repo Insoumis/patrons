@@ -13,7 +13,7 @@ Les TPE et les PME représentent l'essentiel des entreprises françaises. [En 20
 1. Table des matières
 {:toc}
 
-## Difficultés de financement et d'investissement
+{% header Difficultés de financement et d'investissement %}
 
 Une des principales explications à ces défaillances précoces sont les difficultés d'accès au financement. Comme l'explique [un jeune entrepreneur de la Silicon Valley](http://tribune.insoumis.online/posts/entrepreneur-je-rentre-si-melenchon-gagne.md/), « _avec par exemple un faible capital social de départ (mais haut capital humain), peu d’actifs autres que quelques ordinateurs, pas de stock de marchandises car tout est digital, peu ou pas de chiffre d’affaires pendant une longue période en attendant de peaufiner leur modèle d’affaire, aucune banque classique ne financera un projet de startup_ ».
 
@@ -23,7 +23,7 @@ Ces impayés peuvent rapidement provoquer des problèmes de trésorerie et amene
 
 Ces conditions rendent l'investissement beaucoup plus difficile pour les entreprises. [En 2013](http://www.lefigaro.fr/conjoncture/2016/03/15/20002-20160315ARTFIG00107-3000-entreprises-font-l-essentiel-de-l-economie-en-france.php), 3000 entreprises seulement concentraient 52% de la valeur ajoutée, 70% des investissements et 83% des exportations. Les entrepreneur⋅e⋅s en difficulté n'ont souvent pas d'autre choix que de faire appel aux financier⋅e⋅s, quand ils ou elles ne réussissent pas à avoir d'aide de l'État.
 
-## Les mesures de la France Insoumise
+{% header Les mesures de la France Insoumise %}
 
 Le programme de la France Insoumise prévoit différentes mesures pour d'abord accompagner les entreprises et pour investir. Il prévoit la création d'un [« _service public d’accompagnement des entrepreneurs indépendants et des petites entreprises_ »]( https://avenirencommun.fr/livret-produire-france/). Ce service devrait cibler en priorité les entreprises de moins de trois ans, et être « _accessible gratuitement à toute personne souhaitant créer, reprendre, ou diriger une petite entreprise_ ». Il devrait  permettre « _aux entrepreneurs de lever les freins juridiques, commerciaux et administratifs de leurs projets_ », et être « _composé d’experts accompagnateurs avec différents pôles de compétences : droit, gestion, ressources humaines, fiscalité, éco-responsabilité, innovation, etc._ ». Il devrait donc permettre aussi d'aider les sous-traitant⋅e⋅s dans leurs conflits face aux donneur⋅euse⋅s d'ordres.
 

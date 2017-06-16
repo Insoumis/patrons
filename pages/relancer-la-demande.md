@@ -12,6 +12,12 @@ Voici une courte vidéo expliquant rapidement comment les PME profiteront du pla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fQJFUQzAa2g" frameborder="0" allowfullscreen></iframe>
 
+
+1. Table des matières
+{:toc}
+
+{% header Augmenter le pouvoir d'achat des plus pauvres %}
+
 Favoriser la dépense privée passe par l'augmentation des revenus, du pouvoir d'achat, et par la réduction des impôts. Dans ce domaine, le programme de la France Insoumise (FI) prévoit :
 
 - D'[augmenter du SMIC de 15%](https://laec.fr/s30m1) et de [revaloriser les salaires des fonctionnaires](https://laec.fr/s30m2) ;
@@ -28,10 +34,7 @@ Favoriser la dépense privée passe par l'augmentation des revenus, du pouvoir d
 
 Augmenter les revenus des travailleur⋅euse⋅s, c'est leur permettre d'augmenter leur pouvoir d'achat, donc de consommer davantage et de meilleure qualité. Suite à l'augmentation de cette demande, les entreprises devront produire plus et donc embaucher. Des personnes au chômage retrouveront un travail et verront leurs revenus augmenter, ce qui leur permettra de consommer davantage et ainsi de suite. C'est un cercle vertueux qui devrait se mettre en place.
 
-1. Table des matières
-{:toc}
-
-## Explications économiques
+{% header Explications économiques %}
 
 Cette hausse de la demande devrait provoquer une hausse de l'inflation, dans des proportions raisonnables, que la France Insoumise a anticipé, puisque les prévisions d'inflation qu'elle donne dans le chiffrage du programme sont de [4,2% par an](https://fr.scribd.com/document/339809194/Chiffrage-projet-France-insoumise). Mais différentes choses permettront de limiter cette inflation: La relance de l'investissement public, le soutien à l'investissement privé, la [lutte contre les délocalisations](https://laec.fr/s23) et le [protectionnisme solidaire](https://laec.fr/s17) (voir [le texte suivant sur la relance de l'investissement](https://patrons.insoumis.info/relancer-l-investissement)) devraient permettre de développer l'appareil productif du pays, pour être moins dépendant des importations. Aussi, la [transition écologique de l'agriculture et la sortie du modèle productiviste](https://laec.fr/s46) devraient permettre de diversifier la production.
 
@@ -47,7 +50,7 @@ Au niveau du financement de ce plan d'investissement, la France Insoumise a fait
 Le déficit budgétaire prévu est de [3,5 % du PIB en moyenne sur le quinquennat, et il est prévu qu'il monte à 4,8% en 2018 mais finisse à 2,5 % du PIB en 2022](http://www.latribune.fr/economie/presidentielle-2017/melenchon-ou-la-relance-par-l-investissement-public-684971.html).
 
 
-## Comment les entreprises feront face à la hausse des salaires ?
+{% header Comment les entreprises feront face à la hausse des salaires ? %}
 
 
 L'augmentation du SMIC pourra être facilement absorbée par les grandes entreprises, d'autant plus que la limitation des salaires suivant un ratio de 1 à 20 permettra de limiter la progression de la masse salariale dans ces entreprises.

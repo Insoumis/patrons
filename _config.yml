@@ -93,15 +93,18 @@ nav:
       - title: Mehdi, entrepreneur dans la Silicon Valley
         name: temoignage-entrepreneur-dans-la-silicon-valley-je-rentre-en-france-si-jean-luc-melenchon-est-elu
 # Build settings
-assets:
-  autoprefixer:
-    browsers:
-      - last 2 versions
-      - Firefox ESR
-      - IE > 9
+# assets:
+#   autoprefixer:
+#     browsers:
+#       - last 4 versions
+#       - Firefox ESR
+#       - IE > 9
 markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
   - scripts
   - "*.sh"
+
+kramdown:
+  auto_id_stripping: true
