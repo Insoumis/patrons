@@ -1,31 +1,23 @@
 <header>
-  <div class="container large">
-    <div class="row">
-      <div class="one-third column">
-        <img class="logo" src="/assets/logo.svg" alt="Patrons Insoumis" />
-      </div>
-    </div>
+  <div class="logo">
+    <a href="{{ "/" | relative_url }}">
+      <img src="/assets/logo.png" alt="Patrons Insoumis">
+    </a>
   </div>
   <nav class="u-full-width">
-    <ol class="container">
-      <li {% if page.nav == "home" %}class="active"{% endif %}>
-        <a href="{{ "/" | relative_url }}">Accueil</a>
-      </li>
-      <li {% if page.nav == "relaunch" %}class="active"{% endif %}>
-        <a href="/relancer-l-activite">Relancer l'activité</a>
-      </li>
+    <ol>
+      {% for nav in site.nav %}
+        <li>
+          <a class="main-cat" href="/{{nav.cats[0].name}}">{{nav.title}}</a>
+          <ol class="sub">
+            {% for cat in nav.cats %}
+              <li {% if page.nav == cat.name %}class="active"{% endif %}>
+                <a href="/{{cat.name}}">{{cat.title}}</a>
+              </li>
+            {% endfor %}
+          </ol>
+        </li>
+      {% endfor %}
     </ol>
   </nav>
-  {% unless page.nav == "home" %}
-    <ol class="container breadcrumb">
-      <li>
-        <a class="unstyled-link" href="/">
-          {{ site.title }}
-        </a>
-      </li>
-      <li>
-        {{ page.title }}
-      <li>
-    </ol>
-  {% endunless %}
 </header>

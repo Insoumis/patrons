@@ -1,3 +1,2 @@
-bundle exec jekyll clean
-JEKYLL_ENV=production bundle exec jekyll build
-netlify deploy
+sh build.sh
+surge -p _deploy -d https://patrons.insoumis.info

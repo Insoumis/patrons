@@ -13,16 +13,92 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Patrons insoumis
+title: Patron⋅ne⋅s insoumis⋅es
+tagline: "Petit⋅e⋅s et gros⋅ses, même combat ?"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://patrons.insoumis.info" # the base hostname & protocol for your site, e.g. http://example.com
 
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+
+nav:
+  -
+    title: Rétablir l'équilibre
+    name: retablir-l-equilibre
+    cats:
+      - title: Élire les représentant⋅e⋅s patronaux⋅ales
+        name: elire-des-representants-patronaux
+      - title: "Sous-traitance : Aider les TPE-PME face aux plus grandes"
+        name: sous-traitance-aider-les-tpe-pme-face-aux-plus-grandes
+      - title: Lutter contre la finance pour relancer l'économie réelle
+        name: lutter-contre-la-finance-pour-relancer-l-economie-reelle
+  -
+    title: Soutenir les TPE/PME
+    name: soutenir-les-tpe-pme
+    cats:
+      - title: Soutenir les entrepreneur⋅e⋅s au quotidien
+        name: soutenir-les-entrepreneurs-au-quotidien
+      - title: Payer les salaires
+        name: payer-les-salaires
+      - title: Aider à la création d'entreprises et soutenir l'investissement
+        name: aider-la-creation-d-entreprises-et-soutenir-l-investissement
+  -
+    title: Protéger les TPE/PME
+    name: proteger-les-tpe-pme
+    cats:
+      - title: Contre le dumping social en France
+        name: contre-le-dumping-social-en-france
+      - title: Contre le dumping social en Europe et à l'international
+        name: contre-le-dumping-social-en-europe-et-a-l-international
+      - title: Contre le dumping fiscal en France
+        name: contre-le-dumping-fiscal-en-france
+      - title: Contre le dumping fiscal en Europe et à l'international
+        name: contre-le-dumping-fiscal-en-europe-et-a-l-international
+  -
+    title: Écologie et solidarité
+    name: ecologie-et-solidarite
+    cats:
+      - title: Soutenir la transition écologique des entreprises
+        name: soutenir-la-transition-ecologique-des-entreprises
+      - title: Soutenir l'économie sociale et solidaire
+        name: soutenir-l-economie-sociale-et-solidaire
+  -
+    title: Relancer l'activité
+    name: relancer-l-activite
+    cats:
+      - title: Relancer la demande
+        name: relancer-la-demande
+      - title: Relancer l'investissement
+        name: relancer-l-investissement
+  -
+    title: Témoignages
+    name: temoignages
+    cats:
+      - title: Stéphane, patron d'un bureau d'études
+        name: temoignage-stephane-ingenieur
+      - title: Laurent, chaudronnier
+        name: temoignage-laurent-chaudronnier
+      - title: Christophe Villemain, tailleur de pierre
+        name: temoignage-christophe-villemain-tailleur-de-pierre
+      - title: Guillaume, technologies de contrôle qualité pour les cimentiers
+        name: temoignage-guillaume-technologies-de-controle-qualite-pour-les-cimentiers
+      - title: Marc à propos de Philippe, patron d'une menuiserie
+        name: temoignage-marc-a-propos-de-philippe-qui-dirigeait-la-scop-berriat-batiment-une-menuiserie
+      - title: Laurent Bernard, patron et président de l’UIMM
+        name: temoignage-laurent-bernard-president-de-l-uimm-et-directeur-d-opf-a-pont-de-metz
+      - title: Mehdi, entrepreneur dans la Silicon Valley
+        name: temoignage-entrepreneur-dans-la-silicon-valley-je-rentre-en-france-si-jean-luc-melenchon-est-elu
 # Build settings
-assets:
-  autoprefixer:
-    browsers:
-      - "last 2 versions"
-      - "IE > 9"
+# assets:
+#   autoprefixer:
+#     browsers:
+#       - last 4 versions
+#       - Firefox ESR
+#       - IE > 9
 markdown: kramdown
 exclude:
   - Gemfile
@@ -30,3 +106,5 @@ exclude:
   - scripts
   - "*.sh"
 
+kramdown:
+  auto_id_stripping: true

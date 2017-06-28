@@ -1,27 +1,36 @@
 <nav class="u-full-width footer">
   <ol class="container">
     <li>
-      <a href="#">Mentions légales</a>
+      <a href="/mentions-legales/">Mentions Légales</a>
     </li>
     <li>
-      <a href="https://laec.fr/" target="_blank">L'avenir en commun</a>
+      <a href="https://laec.fr/" target="_blank">
+        <img src="/assets/logo_laec.png" alt="L'avenir en commun">
+      </a>
     </li>
     <li>
-      <a href="https://lafranceinsoumise.fr/" target="_blank">La France insoumise</a>
+      <a href="https://lafranceinsoumise.fr/" target="_blank">
+        <img src="/assets/logo_france_insoumise.png" alt="La France insoumise">
+      </a>
     </li>
     <li>
-      <a href="http://discord.insoumis.online/" target="_blank">Le Discord insoumis</a>
+      <a href="http://discord.insoumis.online/" target="_blank">
+        <img src="/assets/logo_discord_insoumis.png" alt="le Discord Insoumis">
+      </a>
     </li>
     <li>
-      <a href="http://discord.insoumis.online/" target="_blank">Le Discord insoumis</a>
-    </li>
-    <li>
-      <a href="{{ "/contact" | relative_url }}">Contact</a>
+      <a href="https://www.fakirpresse.info/" target="_blank">
+        <img src="/assets/logo_fakir.png" alt="Logo Fakir">
+      </a>
     </li>
   </ol>
 </nav>
+<script>
+document.querySelector('.menu-icon').addEventListener('click', function() {
+  var header = document.querySelector('header');
+  header.classList.toggle('slide-out');
+}, false);
+</script>
 {% if jekyll.environment == 'production' %}
-  {% js prod %}
-{% else %}
-  {% js main %}
+  {% include google-analytics.html %}
 {% endif %}
