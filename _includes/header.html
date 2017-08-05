@@ -1,18 +1,18 @@
 <header>
   <div class="logo">
     <a href="{{ "/" | relative_url }}">
-      <img src="/assets/logo.png" alt="Patrons Insoumis">
+      <img src="{{ "/assets/logo.png" | relative_url }}" alt="Patrons Insoumis">
     </a>
   </div>
   <nav class="u-full-width">
     <ol>
       {% for nav in site.nav %}
         <li>
-          <a class="main-cat" href="/{{nav.cats[0].name}}">{{nav.title}}</a>
+          <a class="main-cat" href="{{ site.baseurl }}/{{nav.cats[0].name}}">{{nav.title}}</a>
           <ol class="sub">
             {% for cat in nav.cats %}
               <li {% if page.nav == cat.name %}class="active"{% endif %}>
-                <a href="/{{cat.name}}">{{cat.title}}</a>
+                <a href="{{ site.baseurl }}/{{cat.name}}">{{cat.title}}</a>
               </li>
             {% endfor %}
           </ol>
