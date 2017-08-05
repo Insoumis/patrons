@@ -15,8 +15,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Patron⋅ne⋅s insoumis⋅es
 tagline: "Petit⋅e⋅s et gros⋅ses, même combat ?"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://patrons.insoumis.info" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/patrons" # the subpath of your site, e.g. /blog
+# url: "https://patrons.insoumis.info"
+url: "https://insoumis.github.io"
 
 defaults:
   -
