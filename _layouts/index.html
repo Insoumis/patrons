@@ -11,7 +11,7 @@ layout: default
     <ol>
       {% for cat in nav.cats %}
         <li>
-          <a href="/{{cat.name}}">{{cat.title}}</a>
+          <a href="{{ site.baseurl }}/{{cat.name}}">{{cat.title}}</a>
         </li>
       {% endfor %}
     </ol>
